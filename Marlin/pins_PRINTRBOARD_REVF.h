@@ -161,7 +161,7 @@
 //
 // Temperature Sensors
 //
-#define TEMP_0_PIN          1   // Analog Input (Extruder)
+#define TEMP_0_PIN          2   // Default:1 Analog Input (Extruder)
 #define TEMP_BED_PIN        0   // Analog Input (Bed)
 
 #if DISABLED(NO_EXTRUDRBOARD)
