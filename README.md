@@ -1,6 +1,6 @@
 # About this Marlin Fork
 
-This fork was configured for the **Printrbot Metal Simple** (Printrboard F4) with the following modifications:
+This fork was configured for the **Printrbot Simple Metal** (Printrboard F4) with the following modifications:
 - [E3D PT100](https://e3d-online.com/products/pt100-temperature-sensor) Thermocouple board, attached to A2 (See Below)
 - 250mm extended Printrbot Bed (Orignal Printrbot upgrade)
 - Printrbot Heated Bed (Original Printrbot upgrade - ~80deg max)
